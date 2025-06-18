@@ -179,7 +179,7 @@ vi appsettings.json
 
     > 授予权限
     ```shell
-    chmod +x ./ProjcetEarthAPI
+    chmod +x ./ProjcetEarthServerAPI
     ```
 
     > 添加变量
@@ -191,7 +191,7 @@ vi appsettings.json
 
     > 启动
     ```shell
-    ./ProjectEarthAPI
+    ./ProjectEarthServerAPI
     ```
 
 > [!Tip]
@@ -271,7 +271,7 @@ settings:
 2. 进入API文件夹并启动
 
     ```shell
-    cd API && nohup ./ProjectEarthAPI &
+    cd API && nohup ./ProjectEarthServerAPI &
     ```
 
 3. 进入Cloudburst文件夹并启动
